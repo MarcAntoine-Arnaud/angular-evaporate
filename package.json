@@ -16,7 +16,7 @@
     "url": "https://github.com/uqee/angular-evaporate.git"
   },
   "engines": {
-    "node": "^8.9.1"
+    "node": "^9.3.0"
   },
   "dependencies": {
     "angular": "^1.6.7",
