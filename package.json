@@ -1,5 +1,5 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "name": "angular-evaporate",
   "description": "AngularJS module for the EvaporateJS library",
   "homepage": "http://github.com/uqee/angular-evaporate",
@@ -16,7 +16,7 @@
     "url": "https://github.com/uqee/angular-evaporate.git"
   },
   "engines": {
-    "node": "^9.3.0"
+    "node": "^9.8.0"
   },
   "dependencies": {
     "angular": "^1.6.7",
